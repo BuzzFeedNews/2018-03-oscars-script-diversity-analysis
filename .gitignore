@@ -1,0 +1,7 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+venv
+venv/
+.ipynb_checkpoints
